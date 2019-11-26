@@ -26,5 +26,8 @@
   },
   "peerDependencies": {
     "react-native": ">= 0.60.0"
+  },
+  "dependencies": {
+    "react-native-android-location-enabler": "https://github.com/DCKT/react-native-android-location-enabler"
   }
 }
